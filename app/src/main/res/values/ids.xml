@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edNama" type="id" />
+    <item name="edNpm" type="id" />
+    <item name="edNilaiTugas" type="id" />
+    <item name="edNilaiQuis" type="id" />
+    <item name="edNilaiUts" type="id" />
+    <item name="edNilaiUas" type="id" />
+    <item name="TxtTampil1" type="id" />
+    <item name="TxtTampil2" type="id" />
+    <item name="TxtTampil3" type="id" />
+    <item name="TxtTampil4" type="id" />
+    <item name="TxtTampil5" type="id" />
+    <item name="TxtTampil6" type="id" />
+    <item name="btnInput" type="id" />
+</resources>
